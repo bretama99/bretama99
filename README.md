@@ -9,7 +9,7 @@
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-boot-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![VueJs](https://img.shields.io/badge/vue-%231572B6.svg?style=for-the-badge&logo=vue&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-%2342b983.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
