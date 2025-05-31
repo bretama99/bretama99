@@ -1,185 +1,342 @@
-# 👋 Hi, I'm Brhane Teamrat Gidey
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm **Brhane**!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+%26+AI+Engineer;Cloud+Architecture+Specialist;Full-Stack+Developer" alt="Typing SVG" />
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Engineer;AI+%26+Machine+Learning+Expert;Spring+Boot+%7C+Vue.js+Specialist;Mobile+%26+Web+Developer;Innovation+Through+Code+%F0%9F%9A%80)
+
 </div>
+
+---
 
 ## 🚀 About Me
 
-```typescript
-const brhaneTeamratGidey = {
-  title: "Senior Software & AI Engineer",
-  location: "🌍 Global Remote | Ethiopia",
-  experience: "5+ Years",
-  
-  expertise: {
-    backend: ["Java Spring Boot", "Laravel PHP", "Node.js"],
-    frontend: ["Vue.js", "React", "TypeScript"],
-    mobile: ["Flutter", "React Native"],
-    ai: ["TensorFlow", "PyTorch", "LLM Integration"],
-    cloud: ["AWS", "Docker", "Kubernetes"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
-  },
-  
-  currentFocus: "Building AI-powered cloud solutions",
-  philosophy: "Code intelligently, deploy globally, innovate continuously! 🚀"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🛠️ Tech Stack
+🎯 **Senior Software Engineer** with expertise in **Enterprise Applications** & **AI Solutions**  
+🎓 **Computer Science & Engineering** Graduate from **Mekelle Institute of Technology**  
+💡 Passionate about building **scalable systems** and **intelligent applications**  
+🌟 **5+ Years** of experience delivering **high-impact solutions**  
+🔥 Specialized in **Microservices Architecture** and **Machine Learning Integration**
+
+### 🎪 What I Do Best:
+- 🏗️ **Enterprise Backend Development** with Spring Boot & Microservices
+- 🎨 **Modern Frontend Applications** using Vue.js & React
+- 📱 **Cross-Platform Mobile Apps** with Flutter
+- 🤖 **AI/ML Solutions** & LLM Integration
+- 📊 **Database Architecture** & Performance Optimization
+- 🔄 **Agile Development** & DevOps Practices
+
+---
+
+## ⚡ Core Technologies
 
 <div align="center">
 
-### Backend & APIs
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### 🔥 **Backend Mastery**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000)
 
-### Frontend & Mobile
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 🎨 **Frontend Excellence**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
 
-### AI & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 📱 **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🤖 **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🗄️ **Database Systems**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
 
-</div>
+### 🎨 **UI/UX & Styling**
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brhane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhane&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brhane&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎯 Metric | 📈 Count |
-|-----------|----------|
-| 🏢 Production Systems | 50+ |
-| 🤖 AI Models Deployed | 15+ |
-| ☁️ Cloud Applications | 100+ |
-| ⚡ Performance Improvements | 300% |
-| 👥 Projects Led | 20+ |
-
-</div>
-
-## 🚀 Featured Projects
-
-### 🏗️ Enterprise Solutions
-- **Microservices Platform** - Spring Boot + AWS EKS serving 1M+ users
-- **API Gateway** - High-performance GraphQL with intelligent caching
-
-### 🤖 AI & ML
-- **Intelligent ChatBot** - Custom LLM integration with multi-language support
-- **ML Analytics Engine** - Real-time business intelligence with predictive modeling
-
-### 📱 Applications
-- **FinTech Mobile App** - Flutter app with blockchain integration
-- **Smart CMS Platform** - AI-powered content management with SEO optimization
-
-## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🌱 Current Learning
-
-- Advanced Kubernetes patterns
-- Large Language Model fine-tuning
-- Serverless architecture optimization
-- Real-time data streaming with Apache Kafka
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brhane.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brhane)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brhane.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brhane_dev)
+### 🧪 **Testing & Quality**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=000000)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=000000)
 
 </div>
 
 ---
 
+## 🏆 Professional Highlights
+
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=brhane&label=Profile%20Views&color=00D9FF&style=flat-square)
-  
-  **"Building the future, one commit at a time"** 🚀
-  
+| 🎯 **Expertise Areas** | 🚀 **Achievements** |
+|:--:|:--:|
+| **Enterprise Applications** | 50+ Production Systems |
+| **Microservices Architecture** | 99.9% Uptime Record |
+| **AI/ML Integration** | 10+ Intelligent Solutions |
+| **Mobile Development** | Cross-Platform Excellence |
+| **Database Optimization** | 300% Performance Gains |
+| **Agile Leadership** | Team Productivity Champion |
+
 </div>
 
 ---
 
-## 📋 Automation Setup
+## 💻 Professional Skills Matrix
 
-To automate this profile, set up these GitHub Actions:
+<div align="center">
 
-### 1. Auto-update recent activity
-```yaml
-# .github/workflows/update-readme.yml
-name: Update README
-on:
-  schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
-  workflow_dispatch:
+### 🔥 **Backend Architecture & Development**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=java" width="60px"/>
+<br><strong>Java</strong>
+<br>████████████ 98%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=spring" width="60px"/>
+<br><strong>Spring Boot</strong>
+<br>█████████████ 95%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=laravel" width="60px"/>
+<br><strong>Laravel</strong>
+<br>███████████ 90%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=graphql" width="60px"/>
+<br><strong>GraphQL</strong>
+<br>██████████ 85%
+</td>
+</tr>
+</table>
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+### 🎨 **Frontend & Mobile Development**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vue" width="60px"/>
+<br><strong>Vue.js</strong>
+<br>████████████ 92%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="60px"/>
+<br><strong>React</strong>
+<br>██████████ 88%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=flutter" width="60px"/>
+<br><strong>Flutter</strong>
+<br>████████████ 93%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=typescript" width="60px"/>
+<br><strong>TypeScript</strong>
+<br>███████████ 90%
+</td>
+</tr>
+</table>
+
+### 🤖 **AI & Data Technologies**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python" width="60px"/>
+<br><strong>Python</strong>
+<br>███████████ 87%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="60px"/>
+<br><strong>ML/AI</strong>
+<br>██████████ 85%
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="60px"/>
+<br><strong>LLM Integration</strong>
+<br>████████████ 90%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="60px"/>
+<br><strong>Data Processing</strong>
+<br>███████████ 88%
+</td>
+</tr>
+</table>
+
+### 🗄️ **Database & Infrastructure**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mysql" width="60px"/>
+<br><strong>MySQL</strong>
+<br>████████████ 95%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=postgresql" width="60px"/>
+<br><strong>PostgreSQL</strong>
+<br>████████████ 92%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="60px"/>
+<br><strong>MongoDB</strong>
+<br>██████████ 85%
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker" width="60px"/>
+<br><strong>DevOps</strong>
+<br>███████████ 88%
+</td>
+</tr>
+</table>
+
+</div>
+
+## 📊 Professional Portfolio
+
+<div align="center">
+
+### 🏆 **Achievement Highlights**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Projects-50+-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+<br><strong>Production Systems</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Experience-5%2B_Years-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000"/>
+<br><strong>Professional Development</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Uptime-99.9%25-4ECDC4?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=000000"/>
+<br><strong>System Reliability</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Performance-300%25_Boost-96CEB4?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=000000"/>
+<br><strong>Optimization Expert</strong>
+</td>
+</tr>
+</table>
+
+### 💼 **Development Activity**
+
+```
+📅 This Year:    ████████████████████████████████ 
+🔥 Consistency:  ██████████████████████████████   
+💻 Contributions:████████████████████████████████ 
+🚀 Innovation:   ███████████████████████████████  
 ```
 
-### 2. Auto-update blog posts (if you have a blog)
-```yaml
-# Add blog post workflow
-- uses: gautamkrishnar/blog-post-workflow@master
-  with:
-    feed_list: "https://yourblog.com/feed.xml"
+</div>
+
+---
+
+## 🌟 Featured Projects & Solutions
+
+<div align="center">
+
+### 🚀 **Enterprise & Microservices**
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="#"><img src="https://img.shields.io/badge/🏗️_Enterprise_Microservices-Spring_Boot_+_Vue.js-00D9FF?style=for-the-badge&labelColor=000000"/></a>
+<br><em>Scalable microservices architecture with Spring Boot backend and Vue.js frontend</em>
+</td>
+<td align="center" width="50%">
+<a href="#"><img src="https://img.shields.io/badge/⚡_High_Performance_API-GraphQL_+_PostgreSQL-FF6B6B?style=for-the-badge&labelColor=000000"/></a>
+<br><em>Lightning-fast GraphQL APIs with optimized database queries</em>
+</td>
+</tr>
+</table>
+
+### 🤖 **AI & Machine Learning Solutions**  
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="#"><img src="https://img.shields.io/badge/🤖_AI_Chat_Platform-Python_+_LLM_Integration-4ECDC4?style=for-the-badge&labelColor=000000"/></a>
+<br><em>Intelligent chatbot platform with advanced NLP capabilities</em>
+</td>
+<td align="center" width="50%">
+<a href="#"><img src="https://img.shields.io/badge/📊_ML_Analytics_Suite-TensorFlow_+_Python-96CEB4?style=for-the-badge&labelColor=000000"/></a>
+<br><em>Machine learning analytics for business intelligence</em>
+</td>
+</tr>
+</table>
+
+### 📱 **Mobile & Web Applications**
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="#"><img src="https://img.shields.io/badge/📱_Flutter_FinTech_App-Cross_Platform_Solution-45B7D1?style=for-the-badge&labelColor=000000"/></a>
+<br><em>Full-featured financial application with real-time transactions</em>
+</td>
+<td align="center" width="50%">
+<a href="#"><img src="https://img.shields.io/badge/🌐_Laravel_CMS-Full_Stack_Web_App-F39C12?style=for-the-badge&labelColor=000000"/></a>
+<br><em>Content management system with advanced user roles and permissions</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🤖 AI Integration] --> B[🏗️ Microservices]
+    B --> C[📱 Mobile Apps]
+    C --> D[☁️ Cloud Solutions]
+    D --> E[🚀 Innovation]
+    E --> A
+    
+    style A fill:#00D9FF,stroke:#000,color:#000
+    style B fill:#FF6B6B,stroke:#000,color:#000
+    style C fill:#4ECDC4,stroke:#000,color:#000
+    style D fill:#45B7D1,stroke:#000,color:#000
+    style E fill:#96CEB4,stroke:#000,color:#000
 ```
 
-### 3. Dynamic WakaTime stats (if using)
-```yaml
-# Add WakaTime integration
-- uses: anmol098/waka-readme-stats@master
-  with:
-    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+</div>
 
-## 🔧 Customization Tips
+---
 
-1. **Replace placeholder links** with your actual social media profiles
-2. **Update the username** in all GitHub stats URLs from `brhane` to your username
-3. **Customize the typing animation** text in the header
-4. **Add your actual project repositories** with proper links
-5. **Set up GitHub Actions** for automatic updates
-6. **Consider adding WakaTime integration** for coding time stats
-7. **Add language-specific badges** based on your actual skill levels
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💼 **Ready to build something amazing together?**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/brhane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:brhane.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://brhane.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/brhane_dev)
+
+### 🚀 **Available for:**
+- 💻 **Full-Stack Development Projects**
+- 🤖 **AI/ML Consulting & Implementation**
+- 📱 **Mobile App Development**
+- 🏗️ **System Architecture Design**
+- 👥 **Technical Leadership & Mentoring**
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=brhane&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+  
+</div>
