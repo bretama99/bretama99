@@ -1,77 +1,259 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm **Brhane**!
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+%7C+Vue.js+Specialist;Mobile+%26+Web+Developer;Innovation+Through+Code+%F0%9F%9A%80)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling"/>
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=BRHANE+TECH" alt="Name Animation"/>
+</div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🚀+Full-Stack+Software+Engineer;🤖+AI+%26+Machine+Learning+Expert;☁️+Cloud+Architecture+Specialist;📱+Mobile+%26+Web+Innovation+Leader;🏗️+Enterprise+Solutions+Architect;💡+Tech+Visionary+%26+Problem+Solver" alt="Roles Animation"/>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=brhane&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=🚀%20Contribution%20Journey&area_color=00D9FF&title_color=00D9FF&days=60" alt="Contribution Graph"/>
+</div>
 
-🎯 **Senior Software Engineer** with expertise in **Enterprise Applications** & **AI Solutions**  
-🎓 **Computer Science & Engineering** Graduate from **Mekelle Institute of Technology**  
-💡 Passionate about building **scalable systems** and **intelligent applications**  
-🌟 **5+ Years** of experience delivering **high-impact solutions**  
-🔥 Specialized in **Microservices Architecture** and **Machine Learning Integration**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-profile-trophy.vercel.app/?username=brhane&theme=radical&no-frame=true&margin-w=15&column=4&title=MultiLanguage,Commits,PullRequest,Reviews" alt="Trophies"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🎪 What I Do Best:
-- 🏗️ **Enterprise Backend Development** with Spring Boot & Microservices
-- 🎨 **Modern Frontend Applications** using Vue.js & React
-- 📱 **Cross-Platform Mobile Apps** with Flutter
-- 🤖 **AI/ML Solutions** & LLM Integration
-- 📊 **Database Architecture** & Performance Optimization
-- 🔄 **Agile Development** & DevOps Practices
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" style="vertical-align: middle;"> Welcome to My Digital Universe!
+
+<div align="center">
+  <img align="right" alt="Coding GIF" width="420" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+</div>
+
+## 🎯 About Me
+
+```typescript
+const brhane: Developer = {
+  name: "Brhane Haftu",
+  title: "Senior Full-Stack Engineer & AI Specialist",
+  location: "🌍 Global Remote | Ethiopia",
+  experience: "5+ Years Building Tomorrow's Tech",
+  
+  expertise: {
+    backend: ["Java", "Spring Boot", "Laravel", "Microservices"],
+    frontend: ["Vue.js", "React", "TypeScript", "Modern UI/UX"],
+    mobile: ["Flutter", "Cross-Platform Development"],
+    ai_ml: ["Python", "TensorFlow", "LLM Integration", "AI Solutions"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Performance Optimization"],
+    cloud: ["AWS", "Docker", "Kubernetes", "CI/CD Pipelines"]
+  },
+  
+  currentFocus: "Building AI-powered enterprise solutions",
+  passion: "Transforming ideas into scalable, intelligent systems",
+  motto: "Code with purpose, innovate with impact! 🚀"
+};
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌟 Professional Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🏢_Enterprise-50%2B_Projects-00D9FF?style=for-the-badge&logo=building&logoColor=white&labelColor=1a1a1a&color=00D9FF"/>
+        <br><sub><b>Production Systems</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/⚡_Performance-300%25_Boost-FF6B6B?style=for-the-badge&logo=flash&logoColor=white&labelColor=1a1a1a&color=FF6B6B"/>
+        <br><sub><b>Optimization Expert</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🤖_AI_Solutions-10%2B_Deployed-4ECDC4?style=for-the-badge&logo=robot&logoColor=white&labelColor=1a1a1a&color=4ECDC4"/>
+        <br><sub><b>ML Integration</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/☁️_Uptime-99.9%25-96CEB4?style=for-the-badge&logo=cloud&logoColor=white&labelColor=1a1a1a&color=96CEB4"/>
+        <br><sub><b>System Reliability</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/👥_Teams-15%2B_Led-FFA726?style=for-the-badge&logo=users&logoColor=white&labelColor=1a1a1a&color=FFA726"/>
+        <br><sub><b>Technical Leadership</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## ⚡ Core Technologies
 
 <div align="center">
 
-### 🔥 **Backend Mastery**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000)
+### 🔥 **Backend Architecture & Development**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=java" width="65px"/>
+<br><strong>Java</strong>
+<br><img src="https://geps.dev/progress/98?successColor=00D9FF&color=1a1a1a" alt="Java Progress"/>
+<br><sub>Enterprise Applications</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=spring" width="65px"/>
+<br><strong>Spring Boot</strong>
+<br><img src="https://geps.dev/progress/95?successColor=6DB33F&color=1a1a1a" alt="Spring Progress"/>
+<br><sub>Microservices Expert</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=laravel" width="65px"/>
+<br><strong>Laravel</strong>
+<br><img src="https://geps.dev/progress/90?successColor=FF2D20&color=1a1a1a" alt="Laravel Progress"/>
+<br><sub>Rapid Development</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=graphql" width="65px"/>
+<br><strong>GraphQL</strong>
+<br><img src="https://geps.dev/progress/85?successColor=E10098&color=1a1a1a" alt="GraphQL Progress"/>
+<br><sub>API Innovation</sub>
+</td>
+</tr>
+</table>
 
-### 🎨 **Frontend Excellence**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+### 🎨 **Frontend & Mobile Development**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vue" width="65px"/>
+<br><strong>Vue.js</strong>
+<br><img src="https://geps.dev/progress/92?successColor=4FC08D&color=1a1a1a" alt="Vue Progress"/>
+<br><sub>Reactive Interfaces</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="65px"/>
+<br><strong>React</strong>
+<br><img src="https://geps.dev/progress/88?successColor=61DAFB&color=1a1a1a" alt="React Progress"/>
+<br><sub>Component Architecture</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=flutter" width="65px"/>
+<br><strong>Flutter</strong>
+<br><img src="https://geps.dev/progress/93?successColor=02569B&color=1a1a1a" alt="Flutter Progress"/>
+<br><sub>Cross-Platform</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=typescript" width="65px"/>
+<br><strong>TypeScript</strong>
+<br><img src="https://geps.dev/progress/90?successColor=007ACC&color=1a1a1a" alt="TypeScript Progress"/>
+<br><sub>Type-Safe Code</sub>
+</td>
+</tr>
+</table>
 
-### 📱 **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
+### 🤖 **AI & Machine Learning Technologies**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python" width="65px"/>
+<br><strong>Python</strong>
+<br><img src="https://geps.dev/progress/87?successColor=3776AB&color=1a1a1a" alt="Python Progress"/>
+<br><sub>AI Development</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65px"/>
+<br><strong>TensorFlow</strong>
+<br><img src="https://geps.dev/progress/85?successColor=FF6F00&color=1a1a1a" alt="TensorFlow Progress"/>
+<br><sub>Deep Learning</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="65px"/>
+<br><strong>LLM Integration</strong>
+<br><img src="https://geps.dev/progress/90?successColor=412991&color=1a1a1a" alt="LLM Progress"/>
+<br><sub>Intelligent Systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=pytorch" width="65px"/>
+<br><strong>PyTorch</strong>
+<br><img src="https://geps.dev/progress/83?successColor=EE4C2C&color=1a1a1a" alt="PyTorch Progress"/>
+<br><sub>Neural Networks</sub>
+</td>
+</tr>
+</table>
 
-### 🤖 **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
+### 🗄️ **Database & Infrastructure**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mysql" width="65px"/>
+<br><strong>MySQL</strong>
+<br><img src="https://geps.dev/progress/95?successColor=4479A1&color=1a1a1a" alt="MySQL Progress"/>
+<br><sub>Relational Expert</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=postgresql" width="65px"/>
+<br><strong>PostgreSQL</strong>
+<br><img src="https://geps.dev/progress/92?successColor=336791&color=1a1a1a" alt="PostgreSQL Progress"/>
+<br><sub>Advanced Features</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65px"/>
+<br><strong>MongoDB</strong>
+<br><img src="https://geps.dev/progress/85?successColor=47A248&color=1a1a1a" alt="MongoDB Progress"/>
+<br><sub>NoSQL Solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker" width="65px"/>
+<br><strong>DevOps</strong>
+<br><img src="https://geps.dev/progress/88?successColor=2496ED&color=1a1a1a" alt="DevOps Progress"/>
+<br><sub>Container Orchestration</sub>
+</td>
+</tr>
+</table>
 
-### 🗄️ **Database Systems**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-
-### 🎨 **UI/UX & Styling**
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
-
-### 🧪 **Testing & Quality**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=000000)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=000000)
+### 🎨 **Design & Development Tools**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65px"/>
+<br><strong>TailwindCSS</strong>
+<br><img src="https://geps.dev/progress/94?successColor=38B2AC&color=1a1a1a" alt="Tailwind Progress"/>
+<br><sub>Utility-First CSS</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=figma" width="65px"/>
+<br><strong>Figma</strong>
+<br><img src="https://geps.dev/progress/87?successColor=F24E1E&color=1a1a1a" alt="Figma Progress"/>
+<br><sub>UI/UX Design</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=git" width="65px"/>
+<br><strong>Git</strong>
+<br><img src="https://geps.dev/progress/96?successColor=F05032&color=1a1a1a" alt="Git Progress"/>
+<br><sub>Version Control Master</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vscode" width="65px"/>
+<br><strong>VS Code</strong>
+<br><img src="https://geps.dev/progress/98?successColor=007ACC&color=1a1a1a" alt="VSCode Progress"/>
+<br><sub>Development Environment</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🏆 Professional Highlights
 
@@ -334,7 +516,9 @@ graph LR
 ---
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=brhane&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+  
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
