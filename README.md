@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=BRHANE+HAFTU" alt="Name Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=BRHANE+HAFTU" alt="Name Animation"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🚀+Software+%26+AI+Engineer;☁️+Cloud+Architecture+Specialist;🤖+Machine+Learning+%26+LLM+Expert;🏗️+Microservices+%26+Enterprise+Solutions;📱+Full-Stack+%26+Mobile+Developer;💡+Innovation+Leader+%26+Tech+Visionary" alt="Roles Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🚀+Software+%26+AI+Engineer;☁️+Cloud+Architecture+Specialist;🤖+Machine+Learning+%26+LLM+Expert;🏗️+Microservices+%26+Enterprise+Solutions;📱+Full-Stack+%26+Mobile+Developer;💡+Innovation+Leader+%26+Tech+Visionary" alt="Roles Animation"/>
 </div>
 
 <div align="center">
-  
+
 ### 🚀 **My Development Journey & Contributions**
 
 ```
@@ -888,11 +888,24 @@ graph TB
   </table>
 </div>
 
-### 💡 **Let's Discuss Your Next Big Project!**
+### 🚀 **My Development Journey & Activity Metrics**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Full-Stack+Development+%7C+🤖+AI+Solutions+%7C+☁️+Cloud+Architecture;📱+Mobile+Apps+%7C+🔄+DevOps+%7C+👥+Technical+Leadership;🚀+Ready+to+bring+your+vision+to+life!"/>
-</div>
+```
+🎯 Software Engineering Excellence
+████████████████████████████████████████████████████████ 2024: 159+ Commits
+████████████████████████████████████████████████████████ 2023: 200+ Commits  
+████████████████████████████████████████████████████████ 2022: 180+ Commits
+
+☁️ Cloud Infrastructure Projects
+████████████████████████████████████████████████ AWS Solutions: 25+ Projects
+████████████████████████████████████████████████ Kubernetes: 15+ Deployments
+████████████████████████████████████████████████ Docker: 40+ Containerized Apps
+
+🤖 AI & Machine Learning Implementations
+████████████████████████████████████████████████ LLM Integration: 12+ Projects
+████████████████████████████████████████████████ ML Models: 8+ Production Systems
+████████████████████████████████████████████████ AI APIs: 20+ Intelligent Services
+```
 
 ---
 
